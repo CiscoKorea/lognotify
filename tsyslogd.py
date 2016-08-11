@@ -16,7 +16,7 @@ from spark.rooms import Room
 from spark.session import Session
 
 LOG_FILE = 'org-syslog.log'
-HOST, PORT = "0.0.0.0", 2514
+HOST, PORT = "0.0.0.0", 514
 
 #
 # NO USER SERVICEABLE PARTS BELOW HERE...
